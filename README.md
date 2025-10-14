@@ -12,6 +12,19 @@
 
 ---
 
+🎓 **Education**
+Synergy University, Moscow (2020)
+Information Systems Development, Maintenance, and Security
+
+📜 **Certificates**
+Programming for Everybody (Python) — 2021
+Web Development: HTML & CSS — 2020
+
+🌐 **Languages**
+Russian — Native
+English — B1 (intermediate)
+
+---
 
 ## 🧠 Skills
 - git, docker, linux
@@ -76,14 +89,4 @@ Assistant System Administrator (Intern)
 Set up workstations and installed Windows & software
 Assembled PCs, handled hardware procurement, user support
 
-🎓 **Education**
-Synergy University, Moscow (2020)
-Information Systems Development, Maintenance, and Security
 
-📜 **Certificates**
-Programming for Everybody (Python) — 2021
-Web Development: HTML & CSS — 2020
-
-🌐 **Languages**
-Russian — Native
-English — B1 (intermediate)
