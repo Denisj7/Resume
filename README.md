@@ -4,7 +4,6 @@
 📍 Moscow, Russia  
 📞 +7 (965) 348-39-35 | ✉️ [denisj@mail.ru](mailto:denisj@mail.ru)  
 💬 Telegram: [@denisj7](https://t.me/denisj7)  
-💰 **Expected salary:** 320,000 ₽ (net)  
 🚀 Open to relocation and business trips  
 
 ---
