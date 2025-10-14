@@ -30,7 +30,7 @@
 **Monitoring:** Grafana, Zabbix, ELK, Victoria Metrics, Filebeat  
 **Networking:** TCP/IP, DNS, DHCP, VPN, Mikrotik  
 **Languages:** Python, SQL, Bash, HTML, CSS, JavaScript  
-**Tools:** Jenkins, Bitbucket, Jira, AWX  
+**Tools:** Jenkins, Bitbucket, Jira, AWX, GIT  
 **Other:** Active Directory, System Administration
 
 ---
