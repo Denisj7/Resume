@@ -26,12 +26,12 @@
 
 ## 🧠 Skills
 
-**Systems:** Linux, Windows Server 2012, Hyper-V, Docker, PostgreSQL, Redis, Nginx  
+**Systems:** Linux, Docker, PostgreSQL, Redis, Nginx, Kafka
 **Monitoring:** Grafana, Zabbix, ELK, Victoria Metrics, Filebeat  
 **Networking:** TCP/IP, DNS, DHCP, VPN, Mikrotik  
 **Languages:** Python, SQL, Bash, HTML, CSS, JavaScript  
 **Tools:** Jenkins, Bitbucket, Jira, AWX  
-**Other:** Active Directory, System Administration, Backup (Acronis)
+**Other:** Active Directory, System Administration
 
 ---
 
@@ -50,15 +50,15 @@
 
 ### 🏛️ Sberbank  
 **Lead Support Engineer (Hadoop)** — *Aug 2023 – Jan 2025*  
-- Administered data streams (CTL) and conducted PSI testing via Jenkins  
-- Worked with Hue, Elastic, Hive; analyzed logs, executed SQL queries  
-- Performed troubleshooting and supported production pipelines  
+- Administered data streams (CTL)
+- Worked with Hue, Elastic, Hive; analyzed logs, executed SQL queries
+- Performed troubleshooting and supported production pipelines
 
 **On-duty Support Engineer** — *Oct 2021 – Aug 2023*  
-- Supported 6 production and 30 test enterprise systems  
+- Supported 3 production and 3 test enterprise systems
 - Managed incidents using Zabbix, Grafana, ELK  
 - Handled access management, updates, releases, and DR tests  
-- Worked with HP Service Manager, IBM СУДИР, Jira, Bitbucket  
+- Worked with HP Service Manager, IBM SUDIR, Jira, Bitbucket  
 
 ---
 
