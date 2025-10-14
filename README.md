@@ -1,7 +1,7 @@
 # Resume
 
 ## Personal info
-**Nam:e** Denis
+**Name:** Denis
 **Email:** denisj@mail.ru
 **LinkedIn:** -
 
