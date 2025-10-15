@@ -43,7 +43,8 @@
 - Perform system updates, incident response, and troubleshooting  
 - Improve performance and reliability of services  
 - Develop monitoring metrics and procedures for 1st & 2nd line teams  
-- Deploy new services and features; collaborate with development teams  
+- Deploy new services and features;
+- Collaborate with development, testing, and analytics teams 
 
 ---
 
