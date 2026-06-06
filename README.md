@@ -2,7 +2,7 @@
 
 **Support Engineer / DevOps / Systems Engineer**  
 📍 Moscow, Russia  
-📞 +7 (965) 348-39-35 | ✉️ [denisj@mail.ru](mailto:denisivanov177@gmail.com)  
+📞 +7 (965) 348-39-35 | ✉️ [denisivanov177@gmail.com](mailto:denisivanov177@gmail.com)  
 💬 Telegram: [@denisj7](https://t.me/denisj7)  
 🚀 Open to relocation and business trips  
 
